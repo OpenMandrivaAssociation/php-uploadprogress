@@ -5,7 +5,7 @@
 Summary:	Uploadprogress extension
 Name:		php-%{modname}
 Version:	1.0.1
-Release:	%mkrel 9
+Release:	%mkrel 10
 Group:		Development/PHP
 License:	PHP License
 URL:		http://pecl.php.net/package/uploadprogress/
