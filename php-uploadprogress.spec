@@ -8,7 +8,7 @@ Version:	1.0.3.1
 Release:	5
 Group:		Development/PHP
 License:	PHP License
-URL:		http://pecl.php.net/package/uploadprogress/
+URL:		https://pecl.php.net/package/uploadprogress/
 Source0:	http://pecl.php.net/get/%{modname}-%{version}.tgz
 Requires(pre): rpm-helper
 Requires(postun): rpm-helper
